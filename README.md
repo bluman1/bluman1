@@ -10,6 +10,7 @@ Founder of CCC2C in San Francisco. I build products for how teams work with AI a
 
 **Open source**
 
+- [muse-connectors](https://github.com/bluman1/muse-connectors): open-source, auditable connector skills for Muse, each installed with one pasted prompt.
 - [Overlap](https://github.com/overlapcode/overlap): see what every engineer's coding agent is doing, with a warning before two agents edit the same lines.
 - [Spix MCP](https://github.com/Spix-HQ/spix-mcp): phone calls, SMS and email as tool calls for AI agents.
 - [Sesh](https://github.com/bluman1/sesh): browse, annotate and resume saved Claude Code and Codex sessions in VS Code.
